@@ -1,2 +1,2 @@
 # clone
-a amazone clon
+a amazone clone
